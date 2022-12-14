@@ -1,0 +1,7 @@
+ipykernel
+scikit-learn
+tensorflow
+seaborn
+plotly-express
+pydot
+graphviz
